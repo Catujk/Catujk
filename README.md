@@ -10,7 +10,7 @@
 
 - 🎓 Studying Computer Science @ DEU
 - 🧑‍💻 Currently working on ASP.NET Core Projects
-- 🌱 Learning Microservices, CI/CD, DevOps tools
+- 🌱 Learning ASP.NET Core, Microservices, DevOps tools
 - ⚙️ Love building scalable APIs & secure systems
 - 🐧 Also exploring Linux
 
