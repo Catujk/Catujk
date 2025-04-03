@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cemay Turan Karagöz 👋</h1>
 
 <p align="center">
-  <b>Backend Developer </b>
+  <b>Backend Developer | .NET Core </b>
 </p>
 
 ---
