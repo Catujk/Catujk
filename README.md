@@ -22,16 +22,7 @@
 - 🧰 Tools: ASP.NET Core, Entity Framework, MSSQL
 - 🧠 Concepts: RESTful APIs, SOLID
 - ☁️ DBs: MongoDB, MSSQL
-/*
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Catujk&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catujk&layout=compact&theme=radical" height="160" />
-</p>
-*/
 ---
 
 ### 🧰 Projects & Work
