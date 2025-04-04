@@ -27,7 +27,8 @@
 
 ### 🧰 Projects & Work
 
-- 💼 [AI Projects with .Net](https://github.com/Catujk/AI-Projects-with-DotNet)
+- 📁 [Microservices-Based E-Commerce System with ASP.NET Core](https://github.com/Catujk/Microservices-Based_E-Commerce_System_with_ASP.NET_Core)
+- 📁 [AI Projects with .Net](https://github.com/Catujk/AI-Projects-with-DotNet)
 - 📁 [FullStack Web Application with ASP.NET Core](https://github.com/Catujk/Full-Stack-Web-Application-with-ASP.NET-Core-5)
 
 ---
