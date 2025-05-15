@@ -21,7 +21,7 @@
 - 💻 Languages: C#, SQL, JavaScript
 - 🧰 Tools: ASP.NET Core, Entity Framework, MSSQL
 - 🧠 Concepts: RESTful APIs, SOLID
-- ☁️ DBs: MongoDB, MSSQL
+- ☁️ DBs: MSSQL,MongoDB
 
 ---
 
